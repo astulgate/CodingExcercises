@@ -1,0 +1,15 @@
+/Users/atom1/Downloads/c-sharp-delegates-events-and-lambdas-3006906-main/Start/Events/EventsSolution/bin/Debug/net7.0/EventsSolution
+/Users/atom1/Downloads/c-sharp-delegates-events-and-lambdas-3006906-main/Start/Events/EventsSolution/bin/Debug/net7.0/EventsSolution.deps.json
+/Users/atom1/Downloads/c-sharp-delegates-events-and-lambdas-3006906-main/Start/Events/EventsSolution/bin/Debug/net7.0/EventsSolution.runtimeconfig.json
+/Users/atom1/Downloads/c-sharp-delegates-events-and-lambdas-3006906-main/Start/Events/EventsSolution/bin/Debug/net7.0/EventsSolution.dll
+/Users/atom1/Downloads/c-sharp-delegates-events-and-lambdas-3006906-main/Start/Events/EventsSolution/bin/Debug/net7.0/EventsSolution.pdb
+/Users/atom1/Downloads/c-sharp-delegates-events-and-lambdas-3006906-main/Start/Events/EventsSolution/obj/Debug/net7.0/EventsSolution.csproj.AssemblyReference.cache
+/Users/atom1/Downloads/c-sharp-delegates-events-and-lambdas-3006906-main/Start/Events/EventsSolution/obj/Debug/net7.0/EventsSolution.GeneratedMSBuildEditorConfig.editorconfig
+/Users/atom1/Downloads/c-sharp-delegates-events-and-lambdas-3006906-main/Start/Events/EventsSolution/obj/Debug/net7.0/EventsSolution.AssemblyInfoInputs.cache
+/Users/atom1/Downloads/c-sharp-delegates-events-and-lambdas-3006906-main/Start/Events/EventsSolution/obj/Debug/net7.0/EventsSolution.AssemblyInfo.cs
+/Users/atom1/Downloads/c-sharp-delegates-events-and-lambdas-3006906-main/Start/Events/EventsSolution/obj/Debug/net7.0/EventsSolution.csproj.CoreCompileInputs.cache
+/Users/atom1/Downloads/c-sharp-delegates-events-and-lambdas-3006906-main/Start/Events/EventsSolution/obj/Debug/net7.0/EventsSolution.dll
+/Users/atom1/Downloads/c-sharp-delegates-events-and-lambdas-3006906-main/Start/Events/EventsSolution/obj/Debug/net7.0/refint/EventsSolution.dll
+/Users/atom1/Downloads/c-sharp-delegates-events-and-lambdas-3006906-main/Start/Events/EventsSolution/obj/Debug/net7.0/EventsSolution.pdb
+/Users/atom1/Downloads/c-sharp-delegates-events-and-lambdas-3006906-main/Start/Events/EventsSolution/obj/Debug/net7.0/EventsSolution.genruntimeconfig.cache
+/Users/atom1/Downloads/c-sharp-delegates-events-and-lambdas-3006906-main/Start/Events/EventsSolution/obj/Debug/net7.0/ref/EventsSolution.dll
