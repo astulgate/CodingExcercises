@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/atom1/Downloads/c-sharp-delegates-events-and-lambdas-3006906-main/Start/Events/EventsSolution/EventsSolution.csproj": {}
+    "/Users/atom1/studio/Repos/Excercises/CodingExcercises/EventsSolution/EventsSolution.csproj": {}
   },
   "projects": {
-    "/Users/atom1/Downloads/c-sharp-delegates-events-and-lambdas-3006906-main/Start/Events/EventsSolution/EventsSolution.csproj": {
+    "/Users/atom1/studio/Repos/Excercises/CodingExcercises/EventsSolution/EventsSolution.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/atom1/Downloads/c-sharp-delegates-events-and-lambdas-3006906-main/Start/Events/EventsSolution/EventsSolution.csproj",
+        "projectUniqueName": "/Users/atom1/studio/Repos/Excercises/CodingExcercises/EventsSolution/EventsSolution.csproj",
         "projectName": "EventsSolution",
-        "projectPath": "/Users/atom1/Downloads/c-sharp-delegates-events-and-lambdas-3006906-main/Start/Events/EventsSolution/EventsSolution.csproj",
+        "projectPath": "/Users/atom1/studio/Repos/Excercises/CodingExcercises/EventsSolution/EventsSolution.csproj",
         "packagesPath": "/Users/atom1/.nuget/packages/",
-        "outputPath": "/Users/atom1/Downloads/c-sharp-delegates-events-and-lambdas-3006906-main/Start/Events/EventsSolution/obj/",
+        "outputPath": "/Users/atom1/studio/Repos/Excercises/CodingExcercises/EventsSolution/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/atom1/.nuget/NuGet/NuGet.Config"

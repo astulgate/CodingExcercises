@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = EventsSolution
-build_property.ProjectDir = /Users/atom1/Downloads/c-sharp-delegates-events-and-lambdas-3006906-main/Start/Events/EventsSolution/
+build_property.ProjectDir = /Users/atom1/studio/Repos/Excercises/CodingExcercises/EventsSolution/

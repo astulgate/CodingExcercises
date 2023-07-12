@@ -1,5 +1,9 @@
 ﻿using System;
+/*
+    Demonstrating Events and Delegates using a savings application example
+    Event listeners fire when balance changes and when savings goal is met
 
+*/
 namespace EventsSolution
 {
     //define the delegate for the event handler
